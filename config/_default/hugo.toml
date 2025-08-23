@@ -1,0 +1,145 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-TW'
+title = '【揚琴】亖亖 f.f.'
+theme = 'mainroad'
+
+summaryLength = 1 # minimum summary words, but chinese is always together, so it means minimum summary paragraph for chinese
+[Author] # Used in authorbox
+  name = "亖亖"
+  bio = "無聊當有趣"
+
+[Params]
+  highlightColor = "#8fa5af"
+  copyright = "亖亖"
+  opengraph = true # show contents when share from other social media eg. FB
+  schema = true # let browser understand stucture of my website
+  twitter_cards = true # opengraph for twitter
+  readmore = true
+  # toc = true # table of contents on the up sction of website
+  pager = true
+  mainSections = ["work", "news", "blog", "article"]
+  post_meta = ["date", "catergories"]
+
+[Params.logo]
+  image = "img/MyLogo.jpg"
+  # subtitle = "無聊當有趣"
+  
+[Params.widgets]
+  recent_num = 3
+
+[Params.widgets.social]
+  github = "nufneb"
+  # email = "152yg@protonmail.com"
+
+[[Params.widgets.social.custom]]
+  title = "YouTube"
+  url = "https://www.youtube.com/channel/UCfJl2j_10-oaTUqm0VGbfBw"
+
+[Params.sidebar]
+  home = "right"
+  single = false
+  widgets = ["search", "recent", "categories", "social"]
+
+[[cascade]]
+  [cascade.params]
+    readmore = false #why this not work???????????????????
+  [cascade.target]
+    path = '{/blog, /blog/**}'
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Blog'
+    pageRef = '/blog'
+    weight = 20
+  [[menus.main]]
+    name = 'Article'
+    pageRef = '/article'
+    weight = 30
+  [[menus.main]]
+    name = 'Work'
+    pageRef = '/work'
+    weight = 40
+  [[menus.main]]
+    name = 'News'
+    pageRef = '/news'
+    weight = 50
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 60
+
+
+[markup]
+  [markup.goldmark]
+    duplicateResourceFiles = false
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      linkifyProtocol = 'https'
+      strikethrough = true
+      table = true
+      taskList = true
+      [markup.goldmark.extensions.cjk]
+        eastAsianLineBreaks = false
+        eastAsianLineBreaksStyle = 'simple'
+        enable = false
+        escapedSpace = false
+      [markup.goldmark.extensions.extras]
+        [markup.goldmark.extensions.extras.delete]
+          enable = false
+        [markup.goldmark.extensions.extras.insert]
+          enable = false
+        [markup.goldmark.extensions.extras.mark]
+          enable = false
+        [markup.goldmark.extensions.extras.subscript]
+          enable = false
+        [markup.goldmark.extensions.extras.superscript]
+          enable = false
+      [markup.goldmark.extensions.passthrough]
+        enable = false
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = []
+          inline = []
+      [markup.goldmark.extensions.typographer]
+        apostrophe = '&rsquo;'
+        disable = false
+        ellipsis = '&hellip;'
+        emDash = '&mdash;'
+        enDash = '&ndash;'
+        leftAngleQuote = '&laquo;'
+        leftDoubleQuote = '&ldquo;'
+        leftSingleQuote = '&lsquo;'
+        rightAngleQuote = '&raquo;'
+        rightDoubleQuote = '&rdquo;'
+        rightSingleQuote = '&rsquo;'
+    [markup.goldmark.parser]
+      autoDefinitionTermID = false
+      autoHeadingID = true
+      autoIDType = 'github'
+      wrapStandAloneImageWithinParagraph = true
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        enableDefault = false
+        useEmbedded = 'always'
+      [markup.goldmark.renderHooks.link]
+        enableDefault = false
+        useEmbedded = 'auto'
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true # true for embedded html in markdown
+      xhtml = false
+
+[services]
+  [services.rss]
+    limit = -1
+
+[taxonomies]
+  category = 'categories'
