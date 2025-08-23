@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://nufneb.github.io/my-website/'
 languageCode = 'zh-TW'
 title = '【揚琴】亖亖 f.f.'
 theme = 'mainroad'
