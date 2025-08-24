@@ -4,9 +4,7 @@ draft = false
 title = '【揚琴】アイドル Idol (short ver.)'
 +++
 
-<a href="https://youtu.be/D3Sl6DqqDM8">
-  <img src="/img/video_thumbnails/idol.jpg" alt="【揚琴】アイドル Idol (short ver.)" width="400" height="225">
-</a> 
+
 
 
 這個作品是我高中的自主學習計畫，我真的第一首改編完整的揚琴獨奏作品，我的音樂頻道的第一支影片，真正的一切的開端。
@@ -16,3 +14,6 @@ title = '【揚琴】アイドル Idol (short ver.)'
 我體會到了什麼是「萬事起頭難」。
 
 算了先這樣，簡單來說這首曲子肯定是我在一定意義下做過最瘋狂的事。
+
+
+[![【揚琴】アイドル Idol (short ver.)](idoll.jpg)](https://youtu.be/D3Sl6DqqDM8)
