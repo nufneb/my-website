@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>關於我 on 【揚琴】亖亖 f.f.</title>
-    <link>https://nufneb.github.io/my-website/about/</link>
+    <link>ffyg.xyz/about/</link>
     <description>Recent content in 關於我 on 【揚琴】亖亖 f.f.</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <atom:link href="https://nufneb.github.io/my-website/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="ffyg.xyz/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

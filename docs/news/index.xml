@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>新聞 on 【揚琴】亖亖 f.f.</title>
-    <link>https://nufneb.github.io/my-website/news/</link>
+    <link>ffyg.xyz/news/</link>
     <description>Recent content in 新聞 on 【揚琴】亖亖 f.f.</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://nufneb.github.io/my-website/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="ffyg.xyz/news/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
