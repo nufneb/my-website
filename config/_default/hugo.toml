@@ -1,7 +1,9 @@
-baseURL = 'ffyg.xyz'
+baseURL = 'https://ffyg.xyz/'
 languageCode = 'zh-TW'
 title = '【揚琴】亖亖 f.f.'
 theme = 'mainroad'
+publishDir = 'docs'
+canonifyURLs = true
 
 summaryLength = 1 # minimum summary words, but chinese is always together, so it means minimum summary paragraph for chinese
 [Author] # Used in authorbox
@@ -29,7 +31,7 @@ summaryLength = 1 # minimum summary words, but chinese is always together, so it
 
 [Params.widgets.social]
   github = "nufneb"
-  # email = "152yg@protonmail.com"
+  email = "152yg@protonmail.com"
 
 [[Params.widgets.social.custom]]
   title = "YouTube"
@@ -141,5 +143,5 @@ summaryLength = 1 # minimum summary words, but chinese is always together, so it
   [services.rss]
     limit = -1
 
-[taxonomies]
-  category = 'categories'
+
+

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 【揚琴】亖亖 f.f.</title>
-    <link>ffyg.xyz/categories/</link>
+    <link>https://ffyg.xyz/categories/</link>
     <description>Recent content in Categories on 【揚琴】亖亖 f.f.</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <atom:link href="ffyg.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ffyg.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
