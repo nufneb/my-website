@@ -16,6 +16,5 @@ title = '【揚琴】アイドル Idol (short ver.)'
 算了先這樣，簡單來說這首曲子肯定是我在一定意義下做過最瘋狂的事。
 
 
-[![【揚琴】アイドル Idol (short ver.)](idoll.jpg)](https://youtu.be/D3Sl6DqqDM8)
 
 {{< youtube D3Sl6DqqDM8 >}}

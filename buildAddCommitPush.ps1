@@ -1,3 +1,4 @@
+$ErrorActionPreference = "Stop"
 hugo 
 
 $date = Get-Date -Format "yyyy-MM-dd HH:mm"
