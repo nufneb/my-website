@@ -1,14 +1,14 @@
 +++
-date = '2025-09-01T08:00:00+08:00'
+date = '2025-09-04'
 draft = true
 title = '📎'
 +++
 
-之前下載了free tube 嘗試看看的時候，發現很多人的頭貼都使用了某個似乎很有名的迴紋針當作頭貼，當時只想說：「酷欸，free tube 的原始頭貼是長這樣喔？」
+之前下載了 [FreeTube](https://freetubeapp.io/) 嘗試看看的時候，發現很多人的頭貼都使用了某個似乎很有名的迴紋針當作頭貼，當時只想說：「酷欸， FreeTube 的原始頭貼是長這樣喔？」
 
 ![different clippy](clippy-diversity.jpg)
 
-直到今天我把從手機刪掉的 Youtube 下載回來，想說已經有一段時間沒有接受被滿版鋪天蓋地的廣告和短片推薦摧殘了，回來體驗一下，然後演算法給我了[這一部影片](https://youtu.be/0xAGUrkDsj4)，才知道原來一切的開端是[這一個影片](https://youtu.be/2_Dtmpe9qaQ)。
+直到今天我把從手機刪掉的 YouTube 下載回來，想說已經有一段時間沒有接受被滿版鋪天蓋地的廣告和短片推薦摧殘了，回來體驗一下，然後演算法給我了[這一部影片](https://youtu.be/0xAGUrkDsj4)，才知道原來一切的開端是[這一個影片](https://youtu.be/2_Dtmpe9qaQ)。
 
 ---
 
@@ -21,6 +21,7 @@ title = '📎'
 
 簡單來說就是一個復古懷舊的吉祥物吧？
 
+但是為何選用 Clippy 作為反抗的代表呢？因為 Clippy 的心，是一顆純樸善良的心。 Louis Rossmann 認為，它可以作為反抗當今社會社群體軟
 
 > He might have been annoying, but he just wanted to help. There were no ulterior motives. If you told Clippy that you were having a bad day, he wasn't going to use that information to try and figure out which advertiser to sell you to, nor was he trying to steal your personal data or get you to purchase other Microsoft products. He had no ulterior motives. He was simply there to help. 
 >
@@ -29,3 +30,5 @@ title = '📎'
 ---
 
 我是沒有想要換頭貼啦，我的頭貼說實在對AI也沒什麼利用價值（？
+
+也希望他們的[不合作運動](https://ffyg.xyz/article/subtract/)可以帶起一波浪潮。

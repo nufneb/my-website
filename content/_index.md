@@ -12,6 +12,8 @@ type = "page"
 |[作品（`/work`)](/work)|我改編或原創的作品|[link](/work/index.xml)|
 |[新聞（`/news`)](/news)|近期即將或已經發生的大小事|[link](/news/index.xml)|
 
+[全文 rss](/index.xml)
+
 大致上呢，你會在這裡看到我：
 - 自我成長的紀錄
 - 日常抒發心情
