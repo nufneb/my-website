@@ -2,46 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ffyg.xyz/</loc>
+    <loc>http://localhost:1313/blog/99-ways-to-tell-a-story/</loc>
     <lastmod>2025-09-09T08:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://ffyg.xyz/blog/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-09-09T08:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://ffyg.xyz/blog/pieces-recommendation/</loc>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-09-09T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/clippy/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/pieces-recommendation/</loc>
     <lastmod>2025-09-01T06:40:00+08:00</lastmod>
   </url><url>
-    <loc>https://ffyg.xyz/article/</loc>
+    <loc>http://localhost:1313/article/</loc>
     <lastmod>2025-08-28T16:50:00+08:00</lastmod>
   </url><url>
-    <loc>https://ffyg.xyz/article/subtract/</loc>
+    <loc>http://localhost:1313/article/subtract/</loc>
     <lastmod>2025-08-28T16:50:00+08:00</lastmod>
   </url><url>
-    <loc>https://ffyg.xyz/blog/a-big-problem/</loc>
+    <loc>http://localhost:1313/blog/a-big-problem/</loc>
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ffyg.xyz/news/i-have-a-website/</loc>
+    <loc>http://localhost:1313/news/i-have-a-website/</loc>
     <lastmod>2025-08-25T19:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://ffyg.xyz/news/</loc>
+    <loc>http://localhost:1313/news/</loc>
     <lastmod>2025-08-25T19:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://ffyg.xyz/blog/articles-wrote-in-4th-grade/</loc>
+    <loc>http://localhost:1313/blog/articles-wrote-in-4th-grade/</loc>
     <lastmod>2025-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ffyg.xyz/blog/book-and-food/</loc>
+    <loc>http://localhost:1313/blog/book-and-food/</loc>
     <lastmod>2025-07-01T15:14:22+08:00</lastmod>
   </url><url>
-    <loc>https://ffyg.xyz/work/idol/</loc>
+    <loc>http://localhost:1313/work/idol/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ffyg.xyz/work/</loc>
+    <loc>http://localhost:1313/work/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ffyg.xyz/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://ffyg.xyz/tags/</loc>
+    <loc>http://localhost:1313/work/rushe/</loc>
   </url><url>
-    <loc>https://ffyg.xyz/about/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
   </url>
 </urlset>
