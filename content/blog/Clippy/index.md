@@ -17,7 +17,7 @@ title = '📎'
 
 我也不是很清楚這個迴紋針的來歷，所以來抄一下維基：
 
-> Office 小幫手（英語：Office Assistant）是指曾經內建於 Microsoft Office 的一套智慧型使用者介面，旨在幫助使用者更高效地使用 Office 軟體，解決各種常見問題。
+> Office 小幫手（英語：Office Assistant）是指曾經內建於 Microsoft Office 的一套智慧型使用者介面，旨在幫助使用者更高效地使用 Office 軟體，解決各種常見問題。最為著名的 Office 小幫手是預設的大眼迴紋針（英語：Clippit/Clippy）。
 
 至於為何選擇 Clippy 作為這次運動的代表，簡而言之要用 Clippy 作為善良純真的化身，來對比現代社群軟體過度算計的存在。
 
