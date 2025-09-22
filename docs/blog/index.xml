@@ -6,8 +6,15 @@
     <description>Recent content in 部落格 on 【揚琴】亖亖 f.f.</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 19 Sep 2025 07:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 07:19:00 +0800</lastBuildDate>
     <atom:link href="https://ffyg.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>定義</title>
+      <link>https://ffyg.xyz/blog/mechanic-and-meaning/</link>
+      <pubDate>Tue, 23 Sep 2025 07:19:00 +0800</pubDate>
+      <guid>https://ffyg.xyz/blog/mechanic-and-meaning/</guid>
+      <description>&lt;p&gt;我選修了會計學，然後我的原文書裡的某個段落開頭，有一句這樣子的定義：&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Debits and Credits: The term debit indicates the left side of an account, and credit indicates the right side.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;欸不是你什麼都沒有解釋啊。&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;你只是說他應該怎麼用而已，所以他是什麼&lt;em&gt;意思&lt;/em&gt;？他的&lt;em&gt;意思&lt;/em&gt;是什麼？&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;p&gt;就像在學音樂的時候，如果遇到一個速度記號 Andante 不懂跑去問老師，他不會說「這是速度 65 的意思。」而是像是「這個的中文翻譯叫做『行板』，你就想像在散步時跟著腳步哼這首曲子速度大約是多少。」&lt;/p&gt;&#xA;&lt;p&gt;該怎麼使用是一回事，他的意思是另一回事吧，無論如何都會先講他的意義是什麼才會教他如何運作的吧。&lt;/p&gt;&#xA;&lt;p&gt;嗯對就這樣，只是這句話沒頭沒尾地蹦出來感覺很好笑。&lt;/p&gt;&#xA;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li id=&#34;fn:1&#34;&gt;&#xA;&lt;p&gt;雖然往後讀也大約會知道意思，但我那時迫及待跑去問了 AI。基本上 debit（借方）是錢到哪裡去，credit（貸方）是錢從哪裡來。&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;&#xA;</description>
+    </item>
     <item>
       <title>中文輸入法</title>
       <link>https://ffyg.xyz/blog/input-method/</link>
