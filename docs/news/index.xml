@@ -6,14 +6,21 @@
     <description>Recent content in 新聞 on 【揚琴】亖亖 f.f.</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 25 Aug 2025 19:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 07:20:11 +0800</lastBuildDate>
     <atom:link href="https://ffyg.xyz/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>移除了文章子分類</title>
+      <link>https://ffyg.xyz/news/website-change-2025-10-01/</link>
+      <pubDate>Wed, 01 Oct 2025 07:20:11 +0800</pubDate>
+      <guid>https://ffyg.xyz/news/website-change-2025-10-01/</guid>
+      <description>&lt;p&gt;理由：分類不清晰，且心中沒有想要寫的意思。&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;文章中的文章已移動到&lt;a href=&#34;https://ffyg.xyz/blog&#34;&gt;部落格&lt;/a&gt;區&lt;/em&gt;&lt;/p&gt;&#xA;</description>
+    </item>
     <item>
       <title>我有網站了</title>
       <link>https://ffyg.xyz/news/i-have-a-website/</link>
       <pubDate>Mon, 25 Aug 2025 19:00:00 +0800</pubDate>
       <guid>https://ffyg.xyz/news/i-have-a-website/</guid>
-      <description>&lt;p&gt;&lt;em&gt;好耶&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;目前除了首頁和&lt;a href=&#34;https://ffyg.xyz/about&#34;&gt;關於&lt;/a&gt;之外還有這一些分頁:&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;分頁&lt;/th&gt;&#xA;          &lt;th&gt;介紹&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://ffyg.xyz/blog&#34;&gt;部落格（&lt;code&gt;/blog&lt;/code&gt;)&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;記錄生活隨想和一些想分享的內容&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://ffyg.xyz/article&#34;&gt;文章（&lt;code&gt;/article&lt;/code&gt;)&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;可能是一些讀書筆記和我想研究的東西&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://ffyg.xyz/work&#34;&gt;作品（&lt;code&gt;/work&lt;/code&gt;)&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;我改編或原創的作品&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://ffyg.xyz/news&#34;&gt;新聞（&lt;code&gt;/news&lt;/code&gt;)&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;近期即將或已經發生的大小事&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;呃目前就先這樣子吧，畢竟我也還沒真的開始學 &lt;code&gt;css&lt;/code&gt; 和 &lt;code&gt;html&lt;/code&gt; ，還有&lt;a href=&#34;https://gohugo.io/&#34;&gt;&lt;code&gt;HUGO&lt;/code&gt;&lt;/a&gt;的網站架構，得再研究研究。&lt;/p&gt;&#xA;</description>
+      <description>&lt;p&gt;&lt;em&gt;好耶&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;目前除了首頁和&lt;a href=&#34;https://ffyg.xyz/about&#34;&gt;關於&lt;/a&gt;之外還有這一些分頁:&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;分頁&lt;/th&gt;&#xA;          &lt;th&gt;介紹&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://ffyg.xyz/blog&#34;&gt;部落格（&lt;code&gt;/blog&lt;/code&gt;)&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;記錄生活隨想和一些想分享的內容&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://ffyg.xyz/article&#34;&gt;文章（&lt;code&gt;/article&lt;/code&gt;)&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;可能是一些讀書筆記和我想研究的東西&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;作品（&lt;code&gt;/work&lt;/code&gt;)&lt;/td&gt;&#xA;          &lt;td&gt;我改編或原創的作品&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://ffyg.xyz/news&#34;&gt;新聞（&lt;code&gt;/news&lt;/code&gt;)&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;近期即將或已經發生的大小事&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;呃目前就先這樣子吧，畢竟我也還沒真的開始學 &lt;code&gt;css&lt;/code&gt; 和 &lt;code&gt;html&lt;/code&gt; ，還有&lt;a href=&#34;https://gohugo.io/&#34;&gt;&lt;code&gt;HUGO&lt;/code&gt;&lt;/a&gt;的網站架構，得再研究研究。&lt;/p&gt;&#xA;</description>
     </item>
   </channel>
 </rss>

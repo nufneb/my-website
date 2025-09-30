@@ -8,7 +8,6 @@ type = "page"
 |分頁|介紹|rss|
 |---|---|---|
 |[部落格（`/blog`)](/blog)|記錄生活隨想和一些想分享的內容|[link](/blog/index.xml)|
-|[文章（`/article`)](/article)|可能是一些讀書筆記和我想研究的東西|[link](/article/index.xml)|
 |[作品（`/work`)](/work)|我改編或原創的作品|[link](/work/index.xml)|
 |[新聞（`/news`)](/news)|近期即將或已經發生的大小事|[link](/news/index.xml)|
 
