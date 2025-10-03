@@ -6,8 +6,15 @@
     <description>Recent content in 部落格 on 【揚琴】亖亖 f.f.</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 23 Sep 2025 07:19:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 09:57:26 +0800</lastBuildDate>
     <atom:link href="https://ffyg.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flow Free</title>
+      <link>https://ffyg.xyz/blog/flowfree/</link>
+      <pubDate>Fri, 03 Oct 2025 09:57:26 +0800</pubDate>
+      <guid>https://ffyg.xyz/blog/flowfree/</guid>
+      <description>&lt;p&gt;來介紹一個小品解謎遊戲——&lt;a href=&#34;https://www.bigduckgames.com/flowfree&#34;&gt;Flow Free&lt;/a&gt;。&lt;/p&gt;&#xA;&lt;h2 id=&#34;認識-flow-free&#34;&gt;認識 Flow Free&lt;/h2&gt;&#xA;&lt;p&gt;Flow Free 是一個很基本的連連看解謎遊戲，要把同一個遊戲的關卡成對的兩個顏色相連，並且同一個不同的顏色不能交叉。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;easy_04.jpg&#34; alt=&#34;showcase&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;我從國小就知道這個遊戲了，我想這一個種類的遊戲它應該是始祖之一吧。它的介面是我玩過的同類型遊戲中，做的最流暢最棒的，而且從簡單的到相對困難的關卡它都有。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;破解-flow-free&#34;&gt;破解 Flow Free&lt;/h2&gt;&#xA;&lt;p&gt;接下來請容許我傳授玩 Flow Free 這麼多年下來的心法。&lt;/p&gt;&#xA;&lt;p&gt;要破解所有 Flow Free 關卡的方法很簡單，只有一個原則：&lt;strong&gt;貼著牆壁走&lt;/strong&gt;。&lt;/p&gt;&#xA;&lt;p&gt;這裡的牆壁指得可能是關卡的邊界，也可以是其他完成連線的線條。只要照著這個原則，就不會讓線條像個無頭蒼蠅橫衝直撞，也可以確保不會在連線時碰到死路了。&lt;/p&gt;&#xA;&lt;h3 id=&#34;簡單關卡範例&#34;&gt;簡單關卡範例&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;easy_01.jpg&#34; alt=&#34;ex00&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;以這一個關卡為例子，可以看到現在深綠色和深藍色可以貼著牆壁走。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;easy_02.jpg&#34; alt=&#34;ex01&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;完成這兩個顏色後，可以發現橘色可以貼著深藍色走了。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;easy_03.jpg&#34; alt=&#34;ex02&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;剩下的就簡單啦。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;easy_04.jpg&#34; alt=&#34;ex03&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;困難關卡範例&#34;&gt;困難關卡範例&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;hard_01.jpg&#34; alt=&#34;ex04&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;接著來以這關當做例子，可以非常傷心地發現沒有邊可以貼了。不過可以觀察到，以左上角的藍色而言，看似三個方向可以走，但是其實只有一個可行。&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;從右上連接&lt;/strong&gt;：黃色會被堵住，所以不行。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;從綠色和黃色的中間穿過去&lt;/strong&gt;：如果接著再連接綠色，紅色就被堵住了，所以也不行。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;往下走&lt;/strong&gt;：只剩下這個選項了。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;走這一條路，只需要留意不要擋住旁邊的紅色就行了。也就是說，只要確保旁邊的紅色也有一條且唯一一條路可以走，然後&lt;strong&gt;貼著&lt;/strong&gt;預計給紅色走的路，就可以將藍色完成了。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;hard_02.jpg&#34; alt=&#34;ex05&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;然後黃色就有邊可以貼了。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;hard_03.jpg&#34; alt=&#34;ex06&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;剩下的就簡單啦。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;hard_04.jpg&#34; alt=&#34;ex07&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;只要領略以上心法，Flow Free 八九成的關卡都不是問題啦！&lt;/p&gt;&#xA;</description>
+    </item>
     <item>
       <title>定義</title>
       <link>https://ffyg.xyz/blog/mechanic-and-meaning/</link>
