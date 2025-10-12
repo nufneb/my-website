@@ -6,8 +6,15 @@
     <description>Recent content in 部落格 on 【揚琴】亖亖 f.f.</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 03 Oct 2025 09:57:26 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 19:33:52 +0800</lastBuildDate>
     <atom:link href="https://ffyg.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>實用軟體</title>
+      <link>https://ffyg.xyz/blog/apps-recommendation/</link>
+      <pubDate>Sun, 12 Oct 2025 19:33:52 +0800</pubDate>
+      <guid>https://ffyg.xyz/blog/apps-recommendation/</guid>
+      <description>&lt;p&gt;介紹一下我日常生活中受益許多的三個軟體/網站。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;simplenote&#34;&gt;&lt;a href=&#34;https://simplenote.com/&#34;&gt;Simplenote&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;這算是最符合我需求的筆記軟體了。他是一個&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;多平台&lt;/li&gt;&#xA;&lt;li&gt;即時同步&lt;/li&gt;&#xA;&lt;li&gt;支援 markdown&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;的一個筆記軟體。這三個特點是我主要使用它的原因，而且他介面非常乾淨，沒有什麼多餘的功能。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;beeper&#34;&gt;&lt;a href=&#34;https://www.beeper.com/&#34;&gt;Beeper&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;簡單來說就是一個給聊天訊息的整合工具。日常生活中常常需要跟別人通訊，可是社群軟體又充滿了許多不需要的資訊讓人焦慮，這一個 app 完美解決了這一個問題。目前常見的通訊軟體都有支援，可惜沒有 Line。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;send-anywhere&#34;&gt;&lt;a href=&#34;https://send-anywhere.com/&#34;&gt;Send Anywhere&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;這個軟體這個網站就像 AirDrop 一樣，它可以直接傳送檔案不需要登錄，對我這種常常得影印樂譜或講義的人特別方便。&lt;/p&gt;&#xA;</description>
+    </item>
     <item>
       <title>Flow Free</title>
       <link>https://ffyg.xyz/blog/flowfree/</link>

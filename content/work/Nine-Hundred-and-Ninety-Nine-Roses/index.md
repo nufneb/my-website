@@ -1,7 +1,7 @@
 +++
 date = ''
 draft = true
-title = 'Nine Hundred and Ninety Nine Roses'
+title = '九百九十九朵玫瑰'
 +++
 
 > 《九百九十九朵玫瑰》是由林利南作詞，邰正宵作曲並演唱的歌曲，收錄於邰正宵 1993 年 11 月 1 日發行的專輯《找一個字代替》中。

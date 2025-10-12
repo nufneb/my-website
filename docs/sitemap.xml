@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ffyg.xyz/blog/flowfree/</loc>
-    <lastmod>2025-10-03T09:57:26+08:00</lastmod>
-  </url><url>
     <loc>https://ffyg.xyz/</loc>
-    <lastmod>2025-10-03T09:57:26+08:00</lastmod>
+    <lastmod>2025-10-12T19:33:52+08:00</lastmod>
+  </url><url>
+    <loc>https://ffyg.xyz/blog/apps-recommendation/</loc>
+    <lastmod>2025-10-12T19:33:52+08:00</lastmod>
   </url><url>
     <loc>https://ffyg.xyz/blog/</loc>
+    <lastmod>2025-10-12T19:33:52+08:00</lastmod>
+  </url><url>
+    <loc>https://ffyg.xyz/blog/flowfree/</loc>
     <lastmod>2025-10-03T09:57:26+08:00</lastmod>
   </url><url>
     <loc>https://ffyg.xyz/news/</loc>
@@ -53,10 +56,13 @@
     <loc>https://ffyg.xyz/blog/book-and-food/</loc>
     <lastmod>2025-07-01T15:14:22+08:00</lastmod>
   </url><url>
-    <loc>https://ffyg.xyz/work/idol/</loc>
-    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <loc>https://ffyg.xyz/work/rush-e/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ffyg.xyz/work/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ffyg.xyz/work/idol/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ffyg.xyz/categories/</loc>
