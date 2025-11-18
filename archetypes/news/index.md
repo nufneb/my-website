@@ -1,5 +1,5 @@
 +++
 date = ''
 draft = true
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+title = '【其它】{{ replace .File.ContentBaseName "-" " " | title }}'
 +++

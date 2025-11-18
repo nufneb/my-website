@@ -1,5 +1,5 @@
 +++
 date = ''
 draft = true
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+title = '【揚琴】{{ replace .File.ContentBaseName "-" " " | title }}'
 +++
