@@ -6,8 +6,15 @@
     <description>Recent content in 新聞 on 【揚琴】亖亖 f.f.</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 01 Oct 2025 07:20:11 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 10:00:00 +0800</lastBuildDate>
     <atom:link href="https://ffyg.xyz/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【網站】`/now` 分頁</title>
+      <link>https://ffyg.xyz/news/now/</link>
+      <pubDate>Wed, 31 Dec 2025 10:00:00 +0800</pubDate>
+      <guid>https://ffyg.xyz/news/now/</guid>
+      <description>&lt;p&gt;隆重推出 &lt;code&gt;/now&lt;/code&gt; 分頁！&lt;/p&gt;&#xA;&lt;p&gt;經過一番思考後，我的每篇 &lt;code&gt;/now&lt;/code&gt; 將會分成三大部分：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;現在&lt;/strong&gt;：無意有意正在培養正在做的習慣&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;過去&lt;/strong&gt;：上一個 &lt;code&gt;/now&lt;/code&gt; 之後生活中的亮點&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;未來&lt;/strong&gt;：下一個 &lt;code&gt;/now&lt;/code&gt; 之前想達成或開始做的目標&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;……說到「&lt;a href=&#34;https://youtu.be/lhQ5KvnMODw&#34;&gt;現在──過去&lt;/a&gt;──&lt;a href=&#34;https://youtu.be/2eC7zpFTapo&#34;&gt;未來&lt;/a&gt;」就想到張朝的揚琴第一協奏曲。&lt;/p&gt;&#xA;</description>
+    </item>
     <item>
       <title>【網站】移除了文章子分類</title>
       <link>https://ffyg.xyz/news/website-change-2025-10-01/</link>
