@@ -9,6 +9,7 @@ type = "page"
 |---|---|---|
 |[部落格（`/blog`)](/blog)|記錄生活隨想和一些想分享的內容|[link](/blog/index.xml)|
 |[作品（`/work`)](/work)|我改編或原創的作品|[link](/work/index.xml)|
+|[近況（`/now`)](/now)|我現在過去未來做的事|[link](/now/index.xml)|
 |[新聞（`/news`)](/news)|近期即將或已經發生的大小事|[link](/news/index.xml)|
 
 [全文 rss](/index.xml)
