@@ -80,6 +80,11 @@ body {
 	-webkit-order: 1;
 	order: 1;
 	min-width: 0;
+
+	/* tweak */
+	max-width: min(70ch, 100% - 2rem);
+	margin: 0 auto;
+	padding: 1rem;
 }
 
 .sidebar {

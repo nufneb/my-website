@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ffyg.xyz/news/now/</loc>
-    <lastmod>2025-12-31T10:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://ffyg.xyz/</loc>
+    <lastmod>2026-01-03T18:11:13+08:00</lastmod>
+  </url><url>
+    <loc>https://ffyg.xyz/blog/mosquito/</loc>
+    <lastmod>2026-01-03T18:11:13+08:00</lastmod>
+  </url><url>
+    <loc>https://ffyg.xyz/blog/</loc>
+    <lastmod>2026-01-03T18:11:13+08:00</lastmod>
+  </url><url>
+    <loc>https://ffyg.xyz/news/now/</loc>
     <lastmod>2025-12-31T10:00:00+08:00</lastmod>
   </url><url>
     <loc>https://ffyg.xyz/news/</loc>
@@ -18,9 +24,6 @@
     <lastmod>2025-12-31T09:56:30+08:00</lastmod>
   </url><url>
     <loc>https://ffyg.xyz/blog/testing/</loc>
-    <lastmod>2025-12-21T20:31:59+08:00</lastmod>
-  </url><url>
-    <loc>https://ffyg.xyz/blog/</loc>
     <lastmod>2025-12-21T20:31:59+08:00</lastmod>
   </url><url>
     <loc>https://ffyg.xyz/blog/voc/</loc>
