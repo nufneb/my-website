@@ -84,6 +84,8 @@ body {
 	min-width: 0;
 
 	/* tweak */
+	/* TODO: fix the "flex" that make this not work,
+	 * under stand what the heck is flex and webkit */
 	max-width: min(70ch, 100% - 2rem);
 	margin: 0 auto;
 	padding: 1rem;

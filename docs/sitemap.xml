@@ -3,18 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ffyg.xyz/</loc>
-    <lastmod>2026-01-03T18:11:13+08:00</lastmod>
+    <lastmod>2026-01-10T16:24:00+08:00</lastmod>
+  </url><url>
+    <loc>https://ffyg.xyz/work/</loc>
+    <lastmod>2026-01-10T16:24:00+08:00</lastmod>
+  </url><url>
+    <loc>https://ffyg.xyz/news/</loc>
+    <lastmod>2026-01-10T16:24:00+08:00</lastmod>
+  </url><url>
+    <loc>https://ffyg.xyz/blog/asdf/</loc>
+    <lastmod>2026-01-10T16:24:00+08:00</lastmod>
+  </url><url>
+    <loc>https://ffyg.xyz/news/asdf/</loc>
+    <lastmod>2026-01-10T16:24:00+08:00</lastmod>
+  </url><url>
+    <loc>https://ffyg.xyz/work/asdf/</loc>
+    <lastmod>2026-01-10T16:24:00+08:00</lastmod>
+  </url><url>
+    <loc>https://ffyg.xyz/blog/</loc>
+    <lastmod>2026-01-10T16:24:00+08:00</lastmod>
   </url><url>
     <loc>https://ffyg.xyz/blog/mosquito/</loc>
     <lastmod>2026-01-03T18:11:13+08:00</lastmod>
   </url><url>
-    <loc>https://ffyg.xyz/blog/</loc>
-    <lastmod>2026-01-03T18:11:13+08:00</lastmod>
-  </url><url>
     <loc>https://ffyg.xyz/news/now/</loc>
-    <lastmod>2025-12-31T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://ffyg.xyz/news/</loc>
     <lastmod>2025-12-31T10:00:00+08:00</lastmod>
   </url><url>
     <loc>https://ffyg.xyz/now/001/</loc>
@@ -105,9 +117,6 @@
     <lastmod>2025-07-01T15:14:22+08:00</lastmod>
   </url><url>
     <loc>https://ffyg.xyz/work/nine-hundred-and-ninety-nine-roses/</loc>
-    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ffyg.xyz/work/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ffyg.xyz/work/gourmet-race/</loc>
